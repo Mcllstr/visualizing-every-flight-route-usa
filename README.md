@@ -4,6 +4,7 @@ https://mcllstr.github.io/
 
 ![Network Map Image](/USA_routes_map_image.PNG)
 
+It also creates a route map of every destination you can fly from DC area airports (BWI, DCA, and IAD)
 ![DC_routes Image](/DC_routes_image.PNG)
 
 - USA_routes_map.html -	This is a navigable map of domestic air traffic flight routes (BWI/DCA/IAD), open the html file in a browser to explore the map.  
