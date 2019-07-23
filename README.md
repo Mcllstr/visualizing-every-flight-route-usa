@@ -4,4 +4,4 @@ This notebook uses folium as mapping platform.
 
 Files 
 
-![Network map image](USA_routes_map_image.png "Air traffic network map image")
+![Network map image](https://github.com/Mcllstr/visualizing-every-flight-route-usa/USA_routes_map_image.png "Air traffic network map image")
